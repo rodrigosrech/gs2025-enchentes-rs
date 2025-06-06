@@ -1,0 +1,5 @@
+coluna,descricao
+date,Data da observação (YYYY-MM-DD)
+nivel_rio_m,Nível máximo diário do Rio Guaíba (m)
+risco_nivel,Classificação de risco (Baixo/Médio/Alto)
+deslocados_total,Total de deslocados (se disponível)
